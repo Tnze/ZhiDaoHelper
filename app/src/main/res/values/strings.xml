@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ZhiDao Helper</string>
+    <string name="description">
+        自动关闭无用的网课弹题。\n
+        \n
+        目前支持《知到》网课，智慧树网课的APP，看网课时会时不时弹出所谓"弹题"\n
+        按官方说法：弹题是为了帮助同学们巩固知识点，不会影响到大家作业和考试的成绩。\n
+        然而事实上题目答案多有错误，且看视频学习时弹题非常影响学习。\n
+        该辅助功能开启后可以自动关闭学习网课时的弹题，避免因为做题而分心，更避免因题目答案本身出错而苦恼。\n
+        \n
+        Author: Tnze
+    </string>
+</resources>
